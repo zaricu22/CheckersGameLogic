@@ -1,7 +1,7 @@
 # CheckersGameLogic
 
-This project contains back-end logic of 'Checkers' game 
-written in Java programming language with simple in-code database.
+This project contains a back-end logic of a 'Checkers' game 
+written in a Java programming language with a simple in-code database.
 
 The game use classic 8x8 chessboard and only the dark squares are used. </br>
 Two players begins the game with 12 discs each. </br>
